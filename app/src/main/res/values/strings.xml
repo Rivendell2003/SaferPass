@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ei13M5</string>
+
+
+    <string name="hint_password">Escribe tu contraseña</string>
+    <string name="fortaleza_label">Fortaleza: %1$s</string>
+    <string name="escribe_tu_contraseña">Escribe tu contraseña</string>
+    <string name="fortaleza">Fortaleza:</string>
+    <string name="campo_de_texto_para_ingresar_la_contraseña">Campo de texto para ingresar la contraseña</string>
+    <string name="evaluar_fortaleza_de_la_contraseña">Evaluar Fortaleza de la Contraseña</string>
+    <string name="evaluar_fortaleza_de_la_contrase_a">Evaluar Fortaleza de la Contraseña</string>
+
+
+</resources>
