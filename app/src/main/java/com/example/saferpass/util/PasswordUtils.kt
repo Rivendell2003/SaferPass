@@ -5,7 +5,7 @@ object PasswordUtils {
         val lengthCriteria = contrasena.length >= 8
         val hasNumbers = contrasena.any { it.isDigit() }
         val hasLetters = contrasena.any { it.isLetter() }
-        val hasSpecialChars = contrasena.any { it in "!@#\$%^&*()-_+=<>?" }
+        val hasSpecialChars = contrasena.any { it in "!@#$%^&*()-_+=<>?" }
 
         var strength = 0
         if (lengthCriteria) strength++

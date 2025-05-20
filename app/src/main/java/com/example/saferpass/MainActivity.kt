@@ -7,7 +7,6 @@ import android.text.TextWatcher
 import android.widget.EditText
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.saferpass.R
 import com.example.saferpass.ui.MainContract
 import com.example.saferpass.ui.MainPresenter
 
