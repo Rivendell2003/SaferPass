@@ -1,8 +1,7 @@
-package com.example.ei13m5.util
+package com.example.saferpass.util
 
 object PasswordUtils {
     fun calcularFuerzaContrasena(contrasena: String): Int {
-
         val lengthCriteria = contrasena.length >= 8
         val hasNumbers = contrasena.any { it.isDigit() }
         val hasLetters = contrasena.any { it.isLetter() }

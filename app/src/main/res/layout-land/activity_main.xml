@@ -16,12 +16,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="36dp"
+        android:fontFamily="sans-serif-medium"
         android:gravity="center"
         android:text="@string/evaluar_fortaleza_de_la_contrase_a"
         android:textColor="#FFFFFF"
         android:textSize="28sp"
         android:textStyle="bold"
-        android:fontFamily="sans-serif-medium" />
+        tools:ignore="TextContrastCheck" />
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -77,7 +78,6 @@
         android:textSize="22sp"
         android:textStyle="bold"
         android:fontFamily="sans-serif-medium" />
-
     <View
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -91,7 +91,6 @@
         android:paddingStart="16dp"
         android:paddingBottom="16dp"
         android:text="@string/by_jonny_v_a"
-        android:textColor="#263238"
-        tools:ignore="RtlSymmetry" />
+        tools:ignore="RtlSymmetry,TextContrastCheck" />
 
 </LinearLayout>

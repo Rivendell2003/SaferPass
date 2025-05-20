@@ -7,10 +7,10 @@ android {
     compileSdk = 35
 
 
-    namespace = "com.example.ei13m5"
+    namespace = "com.example.saferpass"
 
     defaultConfig {
-        applicationId = "com.example.ei13m5"
+        applicationId = "com.example.saferpass"
         minSdk = 26
         targetSdk = 33
         versionCode = 1
@@ -47,5 +47,7 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(libs.androidx.cardview)
-    implementation("androidx.cardview:cardview:1.0.0")
+    implementation(libs.androidx.cardview)
+    testImplementation(kotlin("test"))
+    androidTestImplementation(libs.junit.jupiter)
 }

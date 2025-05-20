@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Ei13M5"
+rootProject.name = "SaferPass"
 include(":app")

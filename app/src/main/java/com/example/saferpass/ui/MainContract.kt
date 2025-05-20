@@ -1,7 +1,6 @@
-package com.example.ei13m5.ui
+package com.example.saferpass.ui
 
 interface MainContract {
-
     interface View {
         fun mostrarFortaleza(fortaleza: Int)
     }

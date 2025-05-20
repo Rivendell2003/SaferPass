@@ -1,4 +1,4 @@
-package com.example.ei13m5
+package com.example.saferpass
 
 import org.junit.Assert.*
 import org.junit.jupiter.api.Test

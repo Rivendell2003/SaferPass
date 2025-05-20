@@ -1,14 +1,22 @@
 <resources>
-    <string name="app_name">Ei13M5</string>
+    <string name="app_name">SaferPass</string>
 
-
+    <!-- ui Labels -->
     <string name="hint_password">Escribe tu contraseña</string>
-    <string name="fortaleza_label">Fortaleza: %1$s</string>
-    <string name="escribe_tu_contraseña">Escribe tu contraseña</string>
-    <string name="fortaleza">Fortaleza:</string>
-    <string name="campo_de_texto_para_ingresar_la_contraseña">Campo de texto para ingresar la contraseña</string>
-    <string name="evaluar_fortaleza_de_la_contraseña">Evaluar Fortaleza de la Contraseña</string>
+    <string name="password_field_content_desc">Campo de texto para ingresar la contraseña</string>
+    <string name="password_strength_title">Evaluar Fortaleza de la Contraseña</string>
+    <string name="password_strength_label">Fortaleza: %1$s</string>
+
+    <!-- texto de fortaleza por niveles -->
+    <string name="strength_very_weak">Muy débil</string>
+    <string name="strength_weak">Débil</string>
+    <string name="strength_moderate">Moderada</string>
+    <string name="strength_strong">Fuerte</string>
+    <string name="strength_very_strong">Muy fuerte</string>
+    <string name="strength_unknown">Desconocida</string>
     <string name="evaluar_fortaleza_de_la_contrase_a">Evaluar Fortaleza de la Contraseña</string>
-
-
+    <string name="fortaleza">Fortaleza:</string>
+    <string name="escribe_tu_contrase_a">Escribe tu contraseña</string>
+    <string name="cono_de_candado">Ícono de candado</string>
+    <string name="by_jonny_v_a">by Jonny V. A.</string>
 </resources>

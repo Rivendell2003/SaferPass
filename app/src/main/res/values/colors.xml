@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- colores basicos -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <!-- custom paleta -->
+    <color name="primaryBlue">#4e73df</color>
+    <color name="primaryDarkBlue">#224abe</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_300">#E0E0E0</color>
+
+    <!-- estados  -->
+    <color name="errorRed">#D32F2F</color>
+    <color name="successGreen">#388E3C</color>
+    <color name="warningOrange">#FFA000</color>
 </resources>
